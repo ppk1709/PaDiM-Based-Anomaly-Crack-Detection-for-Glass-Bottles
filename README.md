@@ -256,7 +256,25 @@ For reliable crack detection:
 
 ## 🎥 Demo Video
 
-*[Link to demonstration video would be placed here]*
+## 🎥 Demo Videos
+
+### Demo 1: Basic Operation
+<video width="800" controls>
+  <source src="DEMO_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Demo 2: Training Process
+<video width="800" controls>
+  <source src="Demo_2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Demo 3: Inspection in Action
+<video width="800" controls>
+  <source src="Demo_3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
