@@ -1,0 +1,1 @@
+# PaDiM-Based-Anomaly-Crack-Detection-for-Glass-Bottles
