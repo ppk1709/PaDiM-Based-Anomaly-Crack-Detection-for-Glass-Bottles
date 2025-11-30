@@ -280,6 +280,4 @@ For reliable crack detection:
 
 ---
 
-**Note**: This system provides industrial-grade crack detection capabilities that can be adapted to various bottle types and production environments. Proper setup and training are crucial for optimal performance.
 
-*Last Updated: 2024*
